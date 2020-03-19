@@ -1,0 +1,5 @@
+O que é o Git e para que ele serve?
+
+
+Git é um sistema open-source de controle de versão de arquivos. Ele ajuda a evitar a confusão entre desenvolvedores de uma equipe quando trabalhando em um mesmo projeto, pois mantém organizadas as ediçōes e criaçōes de novos arquivos, permitindo que os mesmos possam existir sem o risco de que suas alteraçōes sejam perdidas.
+Com o git também é possível criar uma branch, que é um clone do seu projeto onde você pode fazer alterações sem mexer no projeto em si. Após acertar os detalhes, você pode unir a branch ao seu projeto, como uma atualização do mesmo.
